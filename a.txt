@@ -1,0 +1,5 @@
+var a = 'string';
+var b = 'single';
+var c = 'hello wolrd';
+
+
